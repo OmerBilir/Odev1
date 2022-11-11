@@ -1,4 +1,4 @@
-# odev1
+# odev2
 Kodluyoruz Eğitimi kapsamında Ödev 2
 Kişisel Sayfamızı Detaylandırmaya Devam Etmek...
 
